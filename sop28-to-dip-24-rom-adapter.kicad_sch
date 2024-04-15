@@ -6,8 +6,8 @@
 
   (title_block
     (title "SOP-28 to DIP-24 ROM adapter.")
-    (date "2024-03-24")
-    (rev "2")
+    (date "2024-04-14")
+    (rev "3")
     (company "Thierry Tremblay")
   )
 
